@@ -20,7 +20,7 @@ Wir haben den Anspruch, unsere Veranstaltungen inklusiv zu gestalten. Wenn ihr u
 
 ## Events
 
-- 2024/01 - [2024-01 Azure Saturday Hamburg 2024  ](<2024-03-Azure Meetup>)
+- 2024/01 - [2024-01 Azure Saturday Hamburg 2024  ](https://github.com/it-insights/azure-meetup-hamburg/tree/main/2024-01-Azure%20Saturday%20Hamburg%202024)
 - 2024/03 - [2024-03 Azure Meetup ](<2024-03-Azure Meetup>)
 
 
