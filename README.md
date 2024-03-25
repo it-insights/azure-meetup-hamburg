@@ -42,6 +42,6 @@ Wenn du Lust hast, selbst einmal einen Vortrag bei unserem Meetup zu halten, kan
 
 Bei Fragen stehen dir die Organisatoren gerne zur Verfügung.
 
-Jan-Henrik Damaschke [LinkedIn](https://www.linkedin.com/in/jan-henrik-damaschke/)
-Jacob Meissner  [LinkedIn](https://www.linkedin.com/in/jacob-mei%C3%9Fner-3799b6134/)
-Christoph Burmeister [LinekdIn](https://www.linkedin.com/in/chrburmeister/)
+- Jan-Henrik Damaschke [LinkedIn](https://www.linkedin.com/in/jan-henrik-damaschke/)
+- Jacob Meissner  [LinkedIn](https://www.linkedin.com/in/jacob-mei%C3%9Fner-3799b6134/)
+- Christoph Burmeister [LinekdIn](https://www.linkedin.com/in/chrburmeister/)
