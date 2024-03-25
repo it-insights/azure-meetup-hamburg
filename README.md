@@ -25,18 +25,19 @@ Wir haben den Anspruch, unsere Veranstaltungen inklusiv zu gestalten. Wenn ihr u
 2024/03 - [2024-03 Azure Meetup ](<2024-03-Azure Meetup>)
 
 
+### Feedback & Ideen 
+
+Wir freuen uns über Verbesserungsvorschläge, Ideen oder [Feedback](https://forms.office.com/e/yvGnX99a9P) zum Meetup! Teilt uns eure Gedanken über den nachfolgenden Link mit – eure Meinung ist uns sehr wichtig.
+
+Umfrage / Feedback Link: [Feedback](https://forms.office.com/e/yvGnX99a9P)
+
+
 ### Meetup Session
 
 Wenn du Lust hast, selbst einmal einen Vortrag bei unserem Meetup zu halten, kannst du über den folgenden Link eine Anfrage einreichen.
 
 [Deinen Vortrag beim Meetup einreichen](https://forms.office.com/e/g5HMVmUvp5)
 
-
-### Feedback & Ideen 
-
-Wir freuen uns über Verbesserungsvorschläge, Ideen oder [Feedback](https://forms.office.com/e/yvGnX99a9P) zum Meetup! Teilt uns eure Gedanken über den nachfolgenden Link mit – eure Meinung ist uns sehr wichtig.
-
-Umfrage / Feedback Link: [Feedback](https://forms.office.com/e/yvGnX99a9P)
 
 ### Organizers
 
