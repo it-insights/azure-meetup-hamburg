@@ -11,7 +11,7 @@ Unsere Themen und Vorträge sind rein inhaltlicher Natur, keine Folienschlachten
 Wenn ihr einen Vortrag halten wollt, egal ob es Euer erster ist oder ihr erfahrene Expert*innen seid, kommt gerne auf uns zu.
 Wir haben den Anspruch, unsere Veranstaltungen inklusiv zu gestalten. Wenn ihr uns dabei helfen wollt, Barrieren abzubauen oder Hilfsmittel benötigt, kommt gerne auf uns zu.
 
-- Join us on [Discord](https://discord.gg/qyesDtdh)
+- Join us on [Discord](https://discord.gg/6w6Qj3Pq)
 - Join us on [Meetup](https://www.meetup.com/de-DE/azure-meetup-hamburg/)
 - Join us on [LinkedIn](https://www.linkedin.com/groups/12986759/)
 
