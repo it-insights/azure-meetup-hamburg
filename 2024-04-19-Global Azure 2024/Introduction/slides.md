@@ -13,11 +13,11 @@ title: Welcome
 mdc: true
 ---
 
-<img src="/azure-meetup-logo.png" class="absolute top-15 right-30 w-60 rounded" />
+<img src="/GlobalAzure2024.png" class="absolute top-15 right-30 w-60 rounded" />
 <div class="absolute left-20 pt-12 w-140 text-left">
-  <p><ph:users-four class="inline text-yellow-500"/> 26.03.2024</p>
-  <span @click="$slidev.nav.next" class="text-3xl font-semibold rounded cursor-pointer text-gray-800">
-    <logos:microsoft-azure class="inline text-yellow-500"/>zure Meetup Hamburg
+  <p><ph:users-four class="inlinetext-yellow-500"/> 19.04.2024</p>
+  <span @click="$slidev.nav.next" class="text-5xl font-semibold rounded cursor-pointer text-gray-800">
+    Global <logos:microsoft-azure class="inline text-yellow-500"/>zure 2024 Hamburg
   </span>
 </div>
 
@@ -51,7 +51,7 @@ transition: slide-up
   </div>
     <div class="flex flex-col items-center border-2 rounded-4 p-2 w-60">
     <div>
-      <ph-user class="h-40 w-40 rounded-full filter grayscale" />
+     <img src="/jmeissner.jpg" class="h-40 w-40 rounded-full filter grayscale" />
     </div>
     <div class="mt-2 flex flex-col space-y-2 text-center">
       <div class="font-bold text-xl">Jacob Meißner</div>
@@ -62,7 +62,7 @@ transition: slide-up
   </div>
     <div class="flex flex-col items-center border-2 rounded-4 p-2 w-60">
     <div>
-      <ph-user class="h-40 w-40 rounded-full filter grayscale" />
+      <img src="/cburmeister.jpg" class="h-40 w-40 rounded-full filter grayscale" />
     </div>
     <div class="mt-2 flex flex-col space-y-2 text-center">
       <div class="font-bold text-xl">Christoph Burmeister</div>
@@ -78,69 +78,65 @@ transition: slide-up
 transition: slide-up
 ---
 
-# Meetup structure
+# Agenda
+global.azure.hamburg
 
-<v-clicks>
 
-- <ph-house class="inline" /> **Alle 2 Monate**
-- <simple-icons-github class="inline" /> **Zentrales repo fuer Vortraege: https://github.com/it-insights/azure-meetup-hamburg**
-- <simple-icons-discord class="inline" /> **Fragen und Diskussionen auf Discord**
-- <simple-icons-sessionize class="inline" /> **Eigene Vorträge einreichen auf Sessionize: https://sessionize.com/azure-meetup-hamburg/**
-
-</v-clicks>
-
----
-transition: slide-up
+<iframe
+  src="https://global.azure.hamburg"
+  style="width:100%; height:100%;"
+></iframe>
 ---
 
-# Azure topics
+
+# Event information
 
 <div class="h-85% w-full grid grid-cols-2 grid-rows-4 gap-7">
   <v-click>
     <ServiceCard :active="$slidev.nav.clicks === 1">
-      Infrastructure as Code (IaC)
+      Sessions / Workshps
     </ServiceCard>
   </v-click>
 
   <v-click>
     <ServiceCard :active="$slidev.nav.clicks === 2">
-      Cloud Native
+      Zeitplanung
     </ServiceCard>
   </v-click>
 
   <v-click>
     <ServiceCard :active="$slidev.nav.clicks === 3">
-      Identity
+      Rauchen
     </ServiceCard>
   </v-click>
 
   <v-click>
     <ServiceCard :active="$slidev.nav.clicks === 4">
-      Data
+      Parken
     </ServiceCard>
   </v-click>
 
   <v-click>
     <ServiceCard :active="$slidev.nav.clicks === 4">
-      AI/CoPilot
+      Toiletten
     </ServiceCard>
   </v-click>
 
   <v-click>
     <ServiceCard :active="$slidev.nav.clicks === 4">
-      Storage
+      Mittagessen & Getränke
     </ServiceCard>
   </v-click>
 
   <v-click>
     <ServiceCard :active="$slidev.nav.clicks === 4">
-      Networking
+      Ausweise
     </ServiceCard>
   </v-click>
 
   <v-click>
     <ServiceCard :active="$slidev.nav.clicks === 4">
-      Pricing
+      Fragen?!
     </ServiceCard>
   </v-click>
 </div>
@@ -149,139 +145,11 @@ transition: slide-up
 transition: slide-up
 ---
 
-# Infrastructure as Code
+# Disclaimer
+ </br> 
+Mit der Anmeldung und dem Erscheinen stimmt ihr zu, dass ggf. Bilder von euch auf der Veranstaltung zu Werbezwecken auf Social Media gepostet werden.
+ <br> <br> <br>
 
-<v-clicks>
+# Feedback
 
-- Bicep
-- Deployment Stacks
-
-</v-clicks>
-
----
-transition: slide-up
----
-
-# Cloud Native
-
-<v-clicks>
-
-- AKS
-- Retina
-- Dapr
-- Radius
-- Container Apps
-- Functions
-- Container Apps
-- SWA
-- DevOps vs. GitHub
-
-</v-clicks>
-
----
-transition: slide-up
----
-
-# Identity/Security
-
-<v-clicks>
-
-- Azure AD -> Entra ID
-- Microsoft Defender for Endpoint
-- Microsoft Defender for Identity
-- Microsoft Defender for Office 365
-- Microsoft Defender for Cloud Apps
-- Microsoft Defender for Cloud
-  - Agentless scanning
-  - Attack path
-  - KQL interface for recommendations
-  - DevOps integration (Azure DevOps/Github, DevOps recommendations)
-
-</v-clicks>
-
----
-transition: slide-up
----
-
-# Data
-
-<v-clicks>
-
-- OneLake
-- Fabric
-
-</v-clicks>
-
----
-transition: slide-up
----
-
-# AI/CoPilot
-
-<v-clicks>
-
-- AI OpenAI Model Support
-- Exclusive model support of Mistral AI
-- Microsoft own SLMs (Phi-2)
-- Azure copilot
-	- Resource graph queries
-	- Cost insights
-
-</v-clicks>
-
----
-transition: slide-up
----
-
-# Storage
-
-<v-clicks>
-
-- Azure Storage Actions
-- SAN/Hybrid Storage Updates
-- NetApp
-- Azure Blob Storage Cold Tier
-
-</v-clicks>
-
----
-transition: slide-up
----
-
-# Network
-
-<v-clicks>
-
-- Frontdoor
-- DDoS
-
-</v-clicks>
-
----
-transition: slide-up
----
-
-# Pricing
-
-<v-clicks>
-
-- Egress costs?
-- Cost Management massive updates
-
-</v-clicks>
-
----
-transition: slide-up
-layout: center
----
-
-# Global Azure Hamburg 2024
-
-<img class="absolute blur-4 top-0 left-0" src="azure-saturday-banner.png" />
-<div class="absolute text-white top-40 right-50 text-4xl p-4 w-150">
-  <div class="absolute left-0 top-4 w-full h-14 bg-gray opacity-80 rounded-2" />
-  <p class="left-10 absolute rounded-2 text-center font-bold">Global Azure Hamburg 2024</p>
-  <br><br>
-  <p class="text-2xl text-center font-bold">April 19, 2024 · In-person Hamburg</p>
-  <p class="text-2xl text-center font-bold">https://www.meetup.com/de-DE/azure-meetup-hamburg/</p>
-</div>
+ <img src="/formazg.png" class="h-80 w-80" />
