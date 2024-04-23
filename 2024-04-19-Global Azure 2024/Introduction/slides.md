@@ -34,6 +34,17 @@ hideInToc: true
 transition: slide-up
 ---
 
+# Sponsors
+
+Vielen Dank an unsere Sponosren!
+
+<div class="flex flex-col gap-4">
+  <img class="transform scale-50" src="/qbeyond.png" />
+  <img class="transform scale-50" src="/vsrn.png"  />
+</div>
+
+---
+
 # Organizer
 
 <div class="flex space-x-10 justify-center">
@@ -83,18 +94,17 @@ global.azure.hamburg
 
 
 <iframe
-  src="https://global.azure.hamburg"
+  src="https://global.azure.hamburg#agenda"
   style="width:100%; height:100%;"
 ></iframe>
 ---
-
 
 # Event information
 
 <div class="h-85% w-full grid grid-cols-2 grid-rows-4 gap-7">
   <v-click>
     <ServiceCard :active="$slidev.nav.clicks === 1">
-      Sessions / Workshps
+      Sessions / Workshops
     </ServiceCard>
   </v-click>
 
@@ -117,25 +127,25 @@ global.azure.hamburg
   </v-click>
 
   <v-click>
-    <ServiceCard :active="$slidev.nav.clicks === 4">
+    <ServiceCard :active="$slidev.nav.clicks === 5">
       Toiletten
     </ServiceCard>
   </v-click>
 
   <v-click>
-    <ServiceCard :active="$slidev.nav.clicks === 4">
+    <ServiceCard :active="$slidev.nav.clicks === 6">
       Mittagessen & Getränke
     </ServiceCard>
   </v-click>
 
   <v-click>
-    <ServiceCard :active="$slidev.nav.clicks === 4">
+    <ServiceCard :active="$slidev.nav.clicks === 7">
       Ausweise
     </ServiceCard>
   </v-click>
 
   <v-click>
-    <ServiceCard :active="$slidev.nav.clicks === 4">
+    <ServiceCard :active="$slidev.nav.clicks === 8">
       Fragen?!
     </ServiceCard>
   </v-click>
@@ -148,8 +158,6 @@ transition: slide-up
 # Disclaimer
  </br> 
 Mit der Anmeldung und dem Erscheinen stimmt ihr zu, dass ggf. Bilder von euch auf der Veranstaltung zu Werbezwecken auf Social Media gepostet werden.
- <br> <br> <br>
+<br>
 
-# Feedback
-
- <img src="/formazg.png" class="h-80 w-80" />
+ <img src="/formazg.png" class="mt-10 h-80 w-80 mx-auto rounded-xl" />
