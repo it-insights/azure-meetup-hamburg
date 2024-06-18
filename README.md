@@ -21,6 +21,14 @@ Wir haben den Anspruch, unsere Veranstaltungen inklusiv zu gestalten. Wenn ihr u
 - 2024/03 - [2024-03 Azure Meetup](https://www.meetup.com/azure-meetup-hamburg/events/299427898/)
 - 2024/04 - [2024-04 Global Azure Hamburg](https://www.meetup.com/azure-meetup-hamburg/events/299428711/)
 
+
+## Recordings & Videos
+
+Hier findest du spannende Vorträge und Diskussionen rund um Microsoft Azure. Wir haben regelmäßig Gastredner aus aller Welt, die ihr Fachwissen und ihre Erfahrungen teilen. Unsere besonderen Online-Veranstaltungen werden aufgezeichnet, damit du sie jederzeit ansehen kannst. Abonniere unseren Kanal, um nichts zu verpassen und immer auf dem neuesten Stand zu bleiben!
+
+- [Azure Meetup Hamburg Youtube Channel](http://www.youtube.com/@AzureMeetupHamburg)
+
+
 ## Feedback & Ideen
 
 Wir freuen uns über Verbesserungsvorschläge, Ideen oder [Feedback](https://forms.office.com/e/yvGnX99a9P) zum Meetup! Teilt uns eure Gedanken über den nachfolgenden Link mit – eure Meinung ist uns sehr wichtig.
