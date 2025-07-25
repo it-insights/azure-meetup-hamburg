@@ -25,50 +25,11 @@ mdc: true
 ---
 transition: slide-up
 hideInToc: false
-
----
-
-# Agenda
-
-<Toc />
-
 ---
 transition: slide-up
 ---
 
-# Sponsors
-
-Vielen Dank an unsere Sponosren!
-
-<div class="flex flex-col gap-4">
-  <img class="transform scale-50" src="/qbeyond.png" />
-  <img class="transform scale-50" src="/vsrn.png"  />
-</div>
-
----
-
-# Speaker 
-
-<div class="flex space-x-10 justify-center">
-    <div class="flex flex-col items-center border-2 rounded-4 p-2 w-80">
-    <div>
-     <img src="/jmeissner.jpg" class="h-40 w-40 rounded-full filter grayscale" />
-    </div>
-    <div class="mt-2 flex flex-col space-y-2 text-center">
-      <div class="font-bold text-xl">Jacob Meißner</div>
-      <div>CEO / Senior Cloud Architect @ Visorian</div>
-      <div><ion-logo-linkedin class="inline mr-2" />/in/jacob-meissner</div>
-      <div><ion-ios-paper class="inline mr-2" />itinsights.org</div>
-    </div>
-  </div>
-
-</div>
-
----
-transition: slide-up
----
-
-# Microosft Entra ID
+# Microsoft Entra ID
 SaaS Application Integration
 
 <img src="/Entra-ID-SaaS.png" class="mx-auto w-full rounded" />
@@ -77,7 +38,7 @@ SaaS Application Integration
 transition: slide-up
 ---
 
-# Microosft Entra ID
+# Microsoft Entra ID
 SaaS Application Integration & Entra ID Application Proxy
 
 <img src="/Entra-ID-SaaS-APPProxy.png" class="mx-auto w-full rounded" />
@@ -86,7 +47,7 @@ SaaS Application Integration & Entra ID Application Proxy
 transition: slide-up
 ---
 
-# Microosft Entra ID
+# Microsoft Entra ID
 SaaS Application Integration, Entra ID Application Proxy & legacy VPN
 
 <img src="/EntraID-VPN5.png" class="mx-auto w-full rounded" />
@@ -95,8 +56,21 @@ SaaS Application Integration, Entra ID Application Proxy & legacy VPN
 transition: slide-up
 ---
 
-# Microosft Entra ID
+# Microsoft Entra ID
 SaaS Application Integration, Entra ID Application Proxy & legacy VPN
 
 <img src="/ENTRA-PA3.png" class="mx-auto w-full rounded" />
+
+
+---
+transition: slide-up
+---
+
+# Microsoft Entra ID
+Enable Private Access
+
+<img src="/graph.png" class="mx-auto w-full rounded" />
+
+"https://graph.microsoft.com/beta/networkAccess/forwardingProfiles/{id}"
+---
 
